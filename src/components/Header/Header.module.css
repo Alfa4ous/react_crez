@@ -1,0 +1,43 @@
+.header{
+    background-color: #E9E8E6;
+    padding: 30px 50px;
+}
+
+.header__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    font-size: 36px;
+    color:  blue;
+    position: relative;
+    right: 50px;
+}
+
+.nav{
+    display: flex;
+    gap: 20px;
+}
+
+.Buttonss{
+    display: flex;
+    gap: 20px;
+}
+
+a{
+    color: black;
+}
+
+.Buttonss {
+    display: flex; 
+}
+
+.Buttonss > * {
+    margin-right: 10px;
+}
+
+.Buttonss > *:last-child {
+    margin-right: 0; 
+}

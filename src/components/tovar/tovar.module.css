@@ -1,0 +1,48 @@
+.nizh{
+    display: flex;
+}
+
+.zagalov{
+    width: 460px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.tsena{
+    color: rgb(175, 223, 171);
+    font-size: 32px;
+    margin-right: 60px;
+}
+
+
+
+.button{
+    background-color: rgb(175, 223, 171);
+    color: white;
+    width: 200px;
+    height: 43px;
+    font-size: 20px;
+    border-radius: 1px;
+}
+
+.Tovars{
+    margin-top: 40px;
+}
+
+.imagecart{
+    width: 420px;
+    height: 344px;
+}
+
+.Textik{
+    color: white;
+}
+
+.button a{
+    color: white;
+}
+
+.quantity{
+    margin-top: 10px;
+    margin-left: 30px;
+}
